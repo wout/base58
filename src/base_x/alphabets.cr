@@ -12,7 +12,7 @@ end
     default: "0123456789a",
   },
   base26: {
-    default: "ABCDEFGHJKMNPQRSTVWXYZ",
+    default:   "ABCDEFGHJKMNPQRSTVWXYZ",
     lowercase: "abcdefghijklmnopqrstuvwxyz",
   },
   base32: {
