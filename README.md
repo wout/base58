@@ -22,10 +22,12 @@ Base | Alphabet
 2 | `01`
 8 | `01234567`
 11 | `0123456789a`
-32 | `0123456789ABCDEFGHJKMNPQRSTVWXYZ`
+26 | `ABCDEFGHIJKLMNOPQRSTUVWXYZ`
+26 | `abcdefghijklmnopqrstuvwxyz` (lowercase)
 32 | `ybndrfg8ejkmcpqxot1uwisza345h769` (z-base-32)
 36 | `0123456789abcdefghijklmnopqrstuvwxyz`
 45 | `0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ $%*+-./:`
+52 | `ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz`
 58 | `123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz` (bitcoin)
 58 | `123456789abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ` (flickr)
 58 | `rpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCg65jkm8oFqi1tuvAxyz` (ripple)
