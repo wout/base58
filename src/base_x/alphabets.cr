@@ -11,6 +11,10 @@ end
   base11: {
     default: "0123456789a",
   },
+  base26: {
+    default:   "ABCDEFGHJKMNPQRSTVWXYZ",
+    lowercase: "abcdefghijklmnopqrstuvwxyz",
+  },
   base32: {
     default: "0123456789ABCDEFGHJKMNPQRSTVWXYZ",
     z_base:  "ybndrfg8ejkmcpqxot1uwisza345h769",
@@ -20,6 +24,9 @@ end
   },
   base45: {
     default: "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ $%*+-./:",
+  },
+  base52: {
+    default: "ABCDEFGHJKMNPQRSTVWXYZabcdefghijklmnopqrstuvwxyz",
   },
   base58: {
     default: "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz",
